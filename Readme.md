@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Alisa Berzina](https://up.htmlacademy.ru/htmlcss/39/user/2020319).
-* Наставник: `Неизвестно`.
+* Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
 
 ---
 
